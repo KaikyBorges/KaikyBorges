@@ -1,17 +1,18 @@
 <h1 align="center">👋 Olá, eu sou o Kaiky Borges</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" style="border-radius:50%;" alt="Foto de perfil">
+  <img src="https://raw.githubusercontent.com/KaikyBorges/KaikyBorges/main/1000124934.jpg" width="200" style="border-radius:50%;" alt="Foto de perfil"/>
 </p>
 
-<h3 align="center">💻 Programador | Python | Análise de Dados | Projetos Educacionais</h3>
+<h3 align="center">💻 Programador | Python | Análise de Dados</h3>
 
 ---
 
 ### 🚀 Sobre mim
-- 🌱 Atualmente estudando **Python e Análise de Dados**  
-- 🎯 Objetivo: crescer como desenvolvedor e analista  
-- 📫 Contato: **kaikyborges60@email.com**
+- 🌱 Atualmente aprendendo **Python, Banco de Dados e Power BI**
+- 🎯 Objetivo: crescer como **desenvolvedor e analista de dados**
+- 📫 Contato: **kaikyborges60@email.com**  
+- ⚡ Curiosidade: gosto de criar projetos práticos para aprender!
 
 ---
 
