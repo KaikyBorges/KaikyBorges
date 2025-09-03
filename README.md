@@ -11,7 +11,7 @@
 ### 🚀 Sobre mim
 - 🌱 Atualmente aprendendo **Python, Banco de Dados e Power BI**
 - 🎯 Objetivo: crescer como **desenvolvedor e analista de dados**
-- 📫 Contato: **kaikyborges60@email.com**  
+- 📫 Contato: **kaikyborges60@gmail.com**  
 - ⚡ Curiosidade: gosto de criar projetos práticos para aprender!
 
 ---
