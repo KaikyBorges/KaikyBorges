@@ -21,15 +21,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F2C811?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
 ### 📂 Projetos em destaque
 - 🛍️ [**teste-de-loja-simples**](https://github.com/KaikyBorges/teste-de-loja-simples) – Loja simulada em Python  
-- 📊 [**AnaliseBonusViagem**](https://github.com/KaikyBorges/AnaliseBonusViagem) – Análise de dados (privado)  
-- 🎮 [**pythondemaio**](https://github.com/KaikyBorges/pythondemaio) – Jogos e exercícios em Python  
+
 
 
 ### 📊 Estatísticas do GitHub
