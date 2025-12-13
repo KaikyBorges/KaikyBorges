@@ -12,7 +12,7 @@
 - 🌱 Atualmente aprendendo **Python, Banco de Dados e Javascript**
 - 🎯 Objetivo: crescer como **desenvolvedor back-end**
 - 📫 Contato: **kaikyborges60@gmail.com**  
-- ⚡ Curiosidade: gosto de criar projetos práticos para aprender!
+- ⚡ Curiosidade: Gosto de aprender novas linguagens e fazer projetos para aprendizado!
 
 ---
 
