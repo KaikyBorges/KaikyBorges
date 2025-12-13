@@ -29,7 +29,7 @@
 ### 📂 Projetos em destaque
 - 🛍️ [**|teste-de-loja-simples|**](https://github.com/KaikyBorges/teste-de-loja-simples) – Loja simulada em Python
 
-- 🧑📓 [**|Algoritmo De Análise De Perfil|**] (https://github.com/KaikyBorges/Algoritmo_Analise_Perfil) - Algoritmo De Análise De Perfil Estudantil
+- 🧑📓 [**|Algoritmo De Análise De Perfil|**](https://github.com/KaikyBorges/Algoritmo_Analise_Perfil) - Algoritmo De Análise De Perfil Estudantil
 
 
 
