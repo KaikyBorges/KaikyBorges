@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  Desenvolvedor Back-End em formação | Python | JavaScript
+  Desenvolvedor Back-End em formação | Python 
 </h3>
 
 <p align="center">
