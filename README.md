@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante do 3º ano do ensino médio, com foco em **Ciência de Dados**, e atualmente estou em formação como **desenvolvedor back-end**. Tenho experiência prática com **Python** e estou expandindo meus conhecimentos em **JavaScript** e **bancos de dados** por meio de projetos e estudos contínuos.
+Sou estudante do 3º ano do ensino médio, com foco em **Ciência de Dados**, e atualmente estou em formação como **desenvolvedor back-end**. Tenho experiência prática com **Python** e estou expandindo meus conhecimentos em **Java** e **bancos de dados** por meio de projetos e estudos contínuos.
 
 Tenho grande interesse em tecnologia e programação, especialmente na criação de soluções eficientes e no desenvolvimento de sistemas bem estruturados. Busco constantemente evoluir tecnicamente e adquirir experiência prática na área.
 
