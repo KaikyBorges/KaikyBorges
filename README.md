@@ -38,7 +38,6 @@ Tenho grande interesse em tecnologia e programação, especialmente na criação
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F2C811?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
