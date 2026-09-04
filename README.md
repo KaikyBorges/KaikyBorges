@@ -1,63 +1,117 @@
-<h1 align="center">Olá, eu sou o Kaiky Borges 👋</h1>
+<h1 align="center">Olá! Eu sou o Kaiky Borges 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/KaikyBorges.png" width="200" style="border-radius:50%;" alt="Foto de perfil do GitHub"/>
+  <strong>Desenvolvedor Back-End em formação | Python | APIs | Bancos de Dados</strong>
 </p>
-
-<h3 align="center">
-  Desenvolvedor Back-End em formação | Python 
-</h3>
 
 <p align="center">
-  Estudante de Ciência de Dados • Apaixonado por programação e resolução de problemas
+  Estudante de Ciência de Dados e apaixonado por transformar problemas em soluções através de código.
 </p>
 
----
-
-## 🚀 Sobre mim
-
-Sou estudante do 3º ano do ensino médio, com foco em **Ciência de Dados**, e atualmente estou em formação como **desenvolvedor back-end**. Tenho experiência prática com **Python** e estou expandindo meus conhecimentos em **Java** e **bancos de dados** por meio de projetos e estudos contínuos.
-
-Tenho grande interesse em tecnologia e programação, especialmente na criação de soluções eficientes e no desenvolvimento de sistemas bem estruturados. Busco constantemente evoluir tecnicamente e adquirir experiência prática na área.
-
-**Principais características:**
-- Facilidade de aprendizado  
-- Raciocínio lógico  
-- Proatividade e organização  
-- Boa adaptação a novos desafios  
-
-🎯 **Objetivo profissional:** iniciar minha trajetória na área de tecnologia como **desenvolvedor back-end**, atuando como **jovem aprendiz ou estagiário**, visando crescimento técnico e profissional.
-
-📫 **Contato:** `kaikyborges60@gmail.com`
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<p align="center">
+  <a href="mailto:kaikyborges60@gmail.com">📧 E-mail</a> •
+  <a href="https://github.com/KaikyBorges">💻 GitHub</a>
 </p>
 
 ---
 
-## 📂 Projetos em destaque
+## 👨‍💻 Sobre mim
 
-- 🛍️ **[Teste de Loja Simples](https://github.com/KaikyBorges/teste-de-loja-simples)**  
-  Projeto em Python simulando o funcionamento básico de uma loja, com foco em lógica de programação e organização do código.
+Sou estudante do 3º ano do Ensino Médio e de um curso técnico em **Ciência de Dados**, com foco atual no desenvolvimento **Back-End**.
 
-- 🧑📓 **[Algoritmo de Análise de Perfil Estudantil](https://github.com/KaikyBorges/Algoritmo_Analise_Perfil)**  
-  Algoritmo desenvolvido para análise de perfis estudantis, aplicando estruturas condicionais e lógica de decisão.
+Meu principal ecossistema é o **Python**, com experiência prática em APIs, bancos de dados, ORM, autenticação, análise de dados e desenvolvimento de aplicações. Também venho estudando **Java** para ampliar minha base em desenvolvimento de software.
+
+Gosto de aprender construindo projetos e, principalmente, entender o motivo das decisões técnicas por trás de cada implementação.
+
+🎯 **Objetivo profissional:** iniciar minha carreira em tecnologia como **estagiário, jovem aprendiz ou desenvolvedor Back-End júnior**, contribuindo em projetos reais e evoluindo continuamente como desenvolvedor.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🧰 Tecnologias
+
+### Back-End
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Dados & Banco de Dados
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+### 💰 Investment Wallet API
+
+API para gerenciamento de uma carteira de investimentos, desenvolvida com foco em arquitetura Back-End, organização por responsabilidades, persistência de dados e evolução através de migrations.
+
+**Tecnologias:** Python • FastAPI • SQLAlchemy • Alembic • SQLite
+
+🔗 [Ver projeto](https://github.com/KaikyBorges/investment-wallet-api)
+
+---
+
+### 📊 Algoritmo de Análise de Perfil
+
+Aplicação interativa em Python e Streamlit que utiliza um questionário com sistema de pontuação para identificar a área de maior afinidade do estudante.
+
+O projeto demonstra aplicação de lógica de negócio, manipulação de dados, gerenciamento de estado e construção de interface.
+
+**Tecnologias:** Python • Streamlit • Pandas • CSS
+
+🔗 [Ver projeto](https://github.com/KaikyBorges/Algoritmo_Analise_Perfil)
+
+---
+
+### 🔐 Sistema de Cadastro com Bcrypt
+
+Aplicação web desenvolvida com Flask para cadastro de usuários, utilizando hashing de senhas com Bcrypt, UUID, validação de dados e persistência com SQLAlchemy.
+
+**Tecnologias:** Python • Flask • Flask-SQLAlchemy • Bcrypt • SQLite
+
+🔗 [Ver projeto](https://github.com/KaikyBorges/Projeto_Bcrypt)
+
+---
+
+## 📈 Atualmente estudando
+
+- Desenvolvimento de APIs REST com Python
+- Arquitetura e organização de aplicações Back-End
+- SQL e modelagem de bancos de dados
+- SQLAlchemy e migrations com Alembic
+- Java e fundamentos de desenvolvimento de software
+- Boas práticas de Git e GitHub
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaikyBorges&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaikyBorges&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyBorges&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 
+---
+
+## 📫 Contato
+
+Se quiser conversar sobre tecnologia, projetos ou oportunidades, entre em contato:
+
+**E-mail:** kaikyborges60@gmail.com
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyBorges&layout=compact&theme=tokyonight"/>
+  <i>Construindo projetos, aprendendo todos os dias e evoluindo como desenvolvedor.</i>
 </p>
